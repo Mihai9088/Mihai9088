@@ -6,7 +6,7 @@
 - 📫 Contact me: mihaivoina76@yahoo.com 
 - ⚙️ Tech I use: React, Next.js, Laravel, TypeScript, Tailwind CSS, PostgreSQL, MySQL  
 - 🧠 Always learning something new, from frontend design to backend APIs  
-- 🔗 Projects & code: [github.com/Mihai9088](https://github.com/Mihai9088)  
+- 🔗 Projects & code: [github.com/Mihai9088](https://github.com/Mihai9088?tab=repositories)  
 - 🎯 Currently focusing on building full-stack apps with a clean UI & scalable architecture
 
 ---
