@@ -26,7 +26,6 @@
 ### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-voina-825502264/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Mihai9088/Repositories)
 
 ---
 
